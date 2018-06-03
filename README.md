@@ -1,6 +1,6 @@
 # Rubberband Emscripten Wrapper
 
- Rubberband ([https://breakfastquay.com/rubberband/](website)) compiled to javascript using emscripten. This is work in early an stage of progress.
+ Rubberband ([https://breakfastquay.com/rubberband/](website)) compiled to javascript using emscripten. This is work in an early stage of development.
 
 ## Disclaimer
 This readme is written for me to jog my memory. Nothing in this repository is yet intended to be useful to anybody else. 
